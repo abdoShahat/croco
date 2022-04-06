@@ -1,6 +1,5 @@
 Flask
 keras
-Keras-Preprocessing
 numpy
 requests
 tensorflow
